@@ -8,3 +8,6 @@ The LL(1) grammar of C can be found at https://github.com/CIAvash/simple-c-parse
 
 Go is used as the implementation language for its ease of use, garbage collector,
 and good tooling. 
+
+References:
+MIPS & SPIM: http://spimsimulator.sourceforge.net/HP_AppA.pdf
