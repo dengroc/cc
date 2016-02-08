@@ -2,7 +2,7 @@
 C Compiler for Fun
 
 This project is for educational purpose. The goal is to implement a lexer, a parser,
-a code generator to MIPS assembly, runnable by SPIM.
+a code generator to x86 assembly.
 
 
 C++11 seems to be quite productive.
